@@ -31,6 +31,4 @@ Como ficou:
 
 ## A Copa é nossa #tbt
 
-<img src="https://user-images.githubusercontent.com/100319396/190702741-97924d76-d3f1-4273-8e61-b8218edb0180.jpg" align="center" alt="drawing" width="200"/>
-
-
+<p align="center"><img src="https://user-images.githubusercontent.com/100319396/190702741-97924d76-d3f1-4273-8e61-b8218edb0180.jpg" alt="drawing" width="200" /></p>
